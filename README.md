@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @requiem12
 - 👀 I’m interested in cats, classical music, mathematics.
 - 🌱 I’m currently learning classical guitar and quantum field theory.
-- 💞️ I’m looking to collaborate on extremal combinatorics.
+- 💞️ I’m looking to collaborate on string quartets and extremal combinatorics.
 - 📫 How to reach me ...
 
 <!---
